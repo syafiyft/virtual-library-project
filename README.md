@@ -49,19 +49,15 @@ XXX
 
 ---
 
-# 📚 Virtual Library: ShelfMate – App Flow
+## **Snapshots of the Application Running, and Explantion of the Flow of the App**
 
 The **Virtual Library: ShelfMate** app follows a structured and user-friendly flow to ensure smooth navigation and accessibility. Below is the step-by-step flow of the app:
-
----
 
 ## 1️⃣ Splash Screen → Authentication Page  
 - When the user launches the app, they are greeted with a **Splash Screen** displaying the app logo.  
 - After a brief delay, the app navigates to the **Authentication Page**, where users can:  
   - **Sign Up** for a new account.  
   - **Log In** using Firebase Authentication or an API-based authentication system.  
-
----
 
 ## 2️⃣ Home Page  
 - After logging in, users are directed to the **Home Page**, which serves as the main dashboard.  
@@ -70,8 +66,6 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
   - 🔥 **Recommended Books** – Personalized suggestions based on user preferences.  
   - 🔍 **Search Bar** – Allows users to search for books by title, author, or keyword.  
   - 🏠 **Navigation Bar** – Provides access to different sections of the app (Home, Library, Profile).  
-
----
 
 ## 3️⃣ Book Details Page  
 - When a user selects a book from the Home Page, they are directed to the **Book Details Page**.  
@@ -83,8 +77,6 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
   - 📌 **“Read” Button** – Directs users to the reading interface.  
   - ❤️ **Favorite Button** – Allows users to save books to their personal collection.  
 
----
-
 ## 4️⃣ Reading Mode Page  
 - When the user taps the **"Read" Button**, they are taken to the **Reading Mode Page**.  
 - Features include:  
@@ -92,15 +84,11 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
   - 🔖 **Bookmarking Feature** – Saves the last read position.  
   - ⬅️➡️ **Swipe Navigation** – Users can swipe left or right to turn pages.  
 
----
-
 ## 5️⃣ Library Page (Saved Books)  
 - This page contains books that the user has:  
   - 📚 **Added to Favorites** for quick access.  
   - 🔄 **Recently Read** to continue reading from where they left off.  
 - Users can organize their collection and remove books if needed.  
-
----
 
 ## 6️⃣ Profile Page  
 - Users can access their **Profile Page** to:  
@@ -108,12 +96,8 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
   - 🚪 **Log Out** from the app.  
   - ⚙️ **Adjust App Settings** (e.g., Dark Mode, Notifications).  
 
----
-
 ## 7️⃣ Logout & Exit  
 - Users can **log out** from the Profile Page.  
 - Upon logout, they are redirected back to the **Authentication Page**.  
-
----
 
 ## 🔄 Overall Navigation Structure  
