@@ -199,4 +199,3 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 
 <br>
 
-7. **🔄 Overall Navigation Structure**  
