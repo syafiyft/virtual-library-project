@@ -21,6 +21,7 @@
 ## **Project Summary**  
 
 **Virtual Library: ShelfMate** is a mobile application designed to provide users with an interactive and accessible XXX
+
 ---
 
 ## **Project Objectives**  
