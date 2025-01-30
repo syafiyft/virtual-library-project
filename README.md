@@ -135,6 +135,7 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 - After a brief delay, the app navigates to the **Authentication Page**, where users can:  
   - **Sign Up** for a new account.  
   - **Log In** using Firebase Authentication or an API-based authentication system.
+  - **Upon creating a new password, it must be at least 7 characters.**
 
 <br>
 
@@ -194,7 +195,7 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 
 6. **Profile Page**  
 - Users can access their **Profile Page** to:  
-  - XXX
+  - **Check their email and name** 
   - **Log out** 
 
 <br>
