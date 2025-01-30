@@ -20,7 +20,7 @@
 
 ## **Project Summary**  
 
-**Virtual Library: ShelfMate** is a mobile application designed to provide users with an interactive and accessible XXX
+**Virtual Library: ShelfMate** is a mobile application designed to provide users with an interactive and accessible platform to explore, manage, and discover books efficiently. The app integrates various functionalities such as book search, personalized reading lists, and a seamless user experience powered by Flutter. Users can browse book details, add favorites, and preview available books using APIs. With a responsive UI and Firebase authentication, the app ensures a secure and engaging experience for book enthusiasts.
 
 ---
 
