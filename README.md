@@ -75,7 +75,8 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 </p>
 
 - After logging in, users are directed to the **Home Page**, which serves as the main dashboard.  
-- The Home Page includes:  
+- The Home Page includes:
+  - The books that are currently trending. 
   - **Search Bar** – Allows users to search for books by title or keyword.  
   - **Navigation Bar** – Provides access to different sections of the app (Home, Books, Favourites, Profile).
 
@@ -105,7 +106,7 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
   <img src="assets/booksPage.png" width="200" />
 </p>
 
-- This page consists of the books that are available.....
+- This page displays random books from the API.
 
 <br>
 
