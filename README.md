@@ -91,9 +91,9 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 - This page displays:  
   - **Book Cover Image**  
   - **Book Title & Author**  
-  - **Description/Synopsis**  
-  - **Star Rating & User Reviews**  
-  - **“Preview” Button** – XXX.
+  - **Description of the book**  
+  - **Rating of the book**  
+  - **“Preview Book” Button** – XXX.
   - **Favorite Button** – Allows users to save books to their personal collection.
 
 <br>
