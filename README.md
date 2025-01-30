@@ -75,7 +75,7 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
   - **“Preview” Button** – XXX.
   - **Favorite Button** – Allows users to save books to their personal collection.  
 
-4.Books Page
+4. Books Page
 - This page consists of the books that are available.....
 
 5. Favourites Page (Saved Books)  
