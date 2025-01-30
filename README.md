@@ -66,13 +66,23 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
   - **Sign Up** for a new account.  
   - **Log In** using Firebase Authentication or an API-based authentication system.  
 
-2. Home Page  
+2. Home Page
+
+<p align="center">
+  <img src="assets/homePage.png" width="200" />
+</p>
+
 - After logging in, users are directed to the **Home Page**, which serves as the main dashboard.  
 - The Home Page includes:  
   - **Search Bar** – Allows users to search for books by title or keyword.  
   - **Navigation Bar** – Provides access to different sections of the app (Home, Books, Favourites, Profile).
 
-3. Book Details Page  
+3. Book Details Page
+
+<p align="center">
+  <img src="assets/bookDetailsPage.png" width="200" />
+</p>
+
 - When a user selects a book from the Home Page, they are directed to the **Book Details Page**.  
 - This page displays:  
   - **Book Cover Image**  
@@ -83,9 +93,19 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
   - **Favorite Button** – Allows users to save books to their personal collection.  
 
 4. Books Page
+
+<p align="center">
+  <img src="assets/booksPage.png" width="200" />
+</p>
+
 - This page consists of the books that are available.....
 
-5. Favourites Page (Saved Books)  
+5. Favourites Page (Saved Books)
+
+<p align="center">
+  <img src="assets/favPage.png" width="200" />
+</p>
+
 - This page contains books that the user has:  
   - **Added to Favorites** for quick access.
 - Users can remove books (unfavourite) if needed.  
