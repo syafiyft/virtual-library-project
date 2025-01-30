@@ -30,7 +30,7 @@
    - Utilize Flutter’s widget-based architecture to create modular, reusable, and scalable UI components (e.g., book cards, navigation bars, buttons).  
 
 2. **Integration of HTTP Library for Data Fetching**  
-   - Implement the HTTP package to fetch book data, images, and other relevant information from an external API, ensuring real-time updates.  
+   - Implement the HTTP package to fetch book data, images, and other relevant information from an external API, ensuring real-time updates.  <link> https://developers.google.com/books/docs/overview </link>
 
 3. **Authentication System with Firebase/API**  
    - Set up Firebase Authentication or an API-driven authentication system to manage user sign-ups, logins, and account security.  
