@@ -94,7 +94,7 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
   - **Book Title & Author**  
   - **Description of the book**  
   - **Rating of the book**  
-  - **“Preview Book” Button** – XXX.
+  - **“Preview Book” Button** – It will redirect to the preview link of the selected book.
   - **Favorite Button** – Allows users to save books to their personal collection.
 
 <br>
