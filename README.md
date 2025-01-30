@@ -53,7 +53,7 @@ XXX
 
 The **Virtual Library: ShelfMate** app follows a structured and user-friendly flow to ensure smooth navigation and accessibility. Below is the step-by-step flow of the app:
 
-1. Splash Screen → Authentication Page
+1. **Splash Screen → Authentication Page**
 
 <p align="center">
   <img src="assets/getStartedPage.png" width="200" />
@@ -68,7 +68,7 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 
 <br>
 
-2. Home Page
+2. **Home Page**
 
 <p align="center">
   <img src="assets/homePage.png" width="200" />
@@ -81,7 +81,7 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 
 <br>
 
-3. Book Details Page
+3. **Book Details Page**
 
 <p align="center">
   <img src="assets/bookDetailsPage.png" width="200" />
@@ -98,7 +98,7 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 
 <br>
 
-4. Books Page
+4. **Books Page**
 
 <p align="center">
   <img src="assets/booksPage.png" width="200" />
@@ -108,7 +108,7 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 
 <br>
 
-5. Favourites Page (Saved Books)
+5. **Favourites Page (Saved Books)**
 
 <p align="center">
   <img src="assets/favPage.png" width="200" />
@@ -120,7 +120,7 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 
 <br>
 
-6. Profile Page  
+6. **Profile Page**  
 - Users can access their **Profile Page** to:  
   - XXX
   - XXX
@@ -128,4 +128,4 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 
 <br>
 
-7. 🔄 Overall Navigation Structure  
+7. **🔄 Overall Navigation Structure**  
