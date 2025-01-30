@@ -20,8 +20,7 @@
 
 ## **Project Summary**  
 
-**Virtual Library: ShelfMate** is a mobile application designed to provide users with an interactive and accessible digital reading experience. The app allows users to explore a vast collection of books, search for titles, and read seamlessly within the app. It features an intuitive user interface with book categorization, personalized recommendations, and an integrated reading mode. ShelfMate aims to enhance the digital reading experience by making books easily accessible, promoting literacy, and fostering a community of avid readers.
-
+**Virtual Library: ShelfMate** is a mobile application designed to provide users with an interactive and accessible XXX
 ---
 
 ## **Project Objectives**  
