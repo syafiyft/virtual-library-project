@@ -49,7 +49,7 @@ XXX
 
 ---
 
-## **Snapshots of the Application Running, and Explantion of the Flow of the App**
+## **Snapshots of the Application Running, and Explanation of the Flow of the App**
 
 The **Virtual Library: ShelfMate** app follows a structured and user-friendly flow to ensure smooth navigation and accessibility. Below is the step-by-step flow of the app:
 
