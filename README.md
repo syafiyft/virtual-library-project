@@ -63,27 +63,30 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 - After logging in, users are directed to the **Home Page**, which serves as the main dashboard.  
 - The Home Page includes:  
   - **Search Bar** – Allows users to search for books by title or keyword.  
-  - **Navigation Bar** – Provides access to different sections of the app (Home, Books, Favourites, Profile).  
+  - **Navigation Bar** – Provides access to different sections of the app (Home, Books, Favourites, Profile).
 
-3. Book Details Page  
+3. Books Page
+- This page consists of the books that are available.....
+
+4. Book Details Page  
 - When a user selects a book from the Home Page, they are directed to the **Book Details Page**.  
 - This page displays:  
-  - 📖 **Book Cover Image**  
-  - 🖊️ **Book Title & Author**  
-  - 📝 **Description/Synopsis**  
-  - ⭐ **Star Rating & User Reviews**  
-  - 📌 **“Preview” Button** – XXX.
-  - ❤️ **Favorite Button** – Allows users to save books to their personal collection.  
+  - **Book Cover Image**  
+  - **Book Title & Author**  
+  - **Description/Synopsis**  
+  - **Star Rating & User Reviews**  
+  - **“Preview” Button** – XXX.
+  - **Favorite Button** – Allows users to save books to their personal collection.  
 
-4. Favourites Page (Saved Books)  
+5. Favourites Page (Saved Books)  
 - This page contains books that the user has:  
-  - 📚 **Added to Favorites** for quick access.
+  - **Added to Favorites** for quick access.
 - Users can remove books (unfavourite) if needed.  
 
-5. Profile Page  
+6. Profile Page  
 - Users can access their **Profile Page** to:  
   - XXX
   - XXX
   - XXX 
 
-6. 🔄 Overall Navigation Structure  
+7. 🔄 Overall Navigation Structure  
