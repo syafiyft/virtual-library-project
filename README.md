@@ -123,8 +123,7 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 6. **Profile Page**  
 - Users can access their **Profile Page** to:  
   - XXX
-  - XXX
-  - XXX 
+  - **Log out** 
 
 <br>
 
