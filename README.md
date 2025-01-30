@@ -81,10 +81,11 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 
 <br>
 
-3. **Book Details Page**
+3. **Book Details Page → Preview Book Page**
 
 <p align="center">
   <img src="assets/bookDetailsPage.png" width="200" />
+   <img src="assets/previewBookPage.png" width="200" />
 </p>
 
 - When a user selects a book from the Home Page, they are directed to the **Book Details Page**.  
