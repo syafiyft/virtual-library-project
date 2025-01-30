@@ -55,11 +55,11 @@ The **Virtual Library: ShelfMate** app follows a structured and user-friendly fl
 
 1. Splash Screen → Authentication Page
 
-![Get Started](assets/getStartedPage.png)
-
-![Log In](assets/logInPage.png)
-
-![Sign Up](assets/signUpPage.png)
+<p align="center">
+  <img src="assets/getStartedPage.png" width="200" />
+  <img src="assets/logInPage.png" width="200" />
+  <img src="assets/signUpPage.png" width="200" />
+</p>
 
 - When the user launches the app, they are greeted with a **Splash Screen** displaying the app logo.  
 - After a brief delay, the app navigates to the **Authentication Page**, where users can:  
